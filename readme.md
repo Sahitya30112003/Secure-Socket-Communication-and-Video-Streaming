@@ -1,0 +1,11 @@
+- create a virtual environment
+- python -m venv venv
+- activate it:
+    - on windows : venv/Scripts/activate
+    - on linux : source venv/bin/activate
+- install requirements
+- pip install -r requirements.txt
+- run server: python server.py
+- run client: python client.py
+- after running client it will auto-generate public key for secure communication between client and server
+- Demo video link --> https://drive.google.com/file/d/1NUP4Uq-Iiq7eazmIPhTgvlHdQV60SX3t/view?usp=sharing (execute accordingly as stated in the demo video)
